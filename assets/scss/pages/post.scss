@@ -1,0 +1,29 @@
+.post-menu {
+    background-color: var(--background-color);
+    margin: var(--margin);
+    padding: var(--padding);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.post-site {
+    background-color: aliceblue;
+    width: 160px;
+    margin: 1%;
+
+}
+
+.post-site-img {
+    width: 160px;
+    height: 100px;
+}
+
+.post-site-name {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.post-name {
+    margin: 0 0 0 0;
+}
